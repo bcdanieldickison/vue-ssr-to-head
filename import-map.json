@@ -1,0 +1,7 @@
+{
+  "imports": {
+    "vue": "/node_modules/vue/dist/vue.esm-browser.js",
+    "vue/server-renderer": "/node_modules/vue/server-renderer/index.js"
+  },
+  "scopes": {}
+}
